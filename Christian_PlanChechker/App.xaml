@@ -1,0 +1,8 @@
+﻿<Application x:Class="Christian_PlanChechker.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Christian_PlanChechker">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
